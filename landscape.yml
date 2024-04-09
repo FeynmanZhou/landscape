@@ -1608,6 +1608,12 @@ landscape:
             logo: qingteng.svg
             crunchbase: https://www.crunchbase.com/organization/qingteng-cloud-security
           - item:
+            name: Ratify
+            homepage_url: https://ratify.dev/
+            repo_url: https://github.com/deislabs/ratify
+            logo: ratify.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
             name: RBAC Lookup
             homepage_url: https://www.fairwinds.com/open-source-software
             repo_url: https://github.com/FairwindsOps/rbac-lookup
